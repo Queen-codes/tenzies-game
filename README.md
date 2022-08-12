@@ -16,7 +16,7 @@
 
 ## Preview
 
-[Live Site Url](https://xyz.com)
+[Live Site Url](https://tenzies-game-sooty.vercel.app/)
 
 ## What I learned.
 
